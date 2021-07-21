@@ -11,8 +11,7 @@ pip install -r requirements.txt
 python3 Run_Cricket.py  
 ```
 
-
-Functionalities Include :- 
+## Functionalities 
 - Building a Team 
 - Showing Player Details
 - Managing Tournament Scoreboard
